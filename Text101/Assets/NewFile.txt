@@ -1,0 +1,13 @@
+﻿First couple lines of text.
+Oohhh Nooo, I am lost, what am I going to do. I need to find my way back but I
+don't remember how I got here, hmmm... 
+
+Let see, I can go to that park on the left and maybe someone can help me find
+my way, or I can follow this trail and maybe I can find something that can help
+me identify where I am.
+
+First couple choices
+What should I do?
+
+1: Go to park
+2: Follow trail

@@ -313,3 +313,11 @@ System memory in use after: 151.2 MB.
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2266.
 Total: 2.102539 ms (FindLiveObjects: 0.186702 ms CreateObjectMapping: 0.068171 ms MarkObjects: 1.749259 ms  DeleteObjects: 0.097543 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 68880.122383 seconds.
+  path: Assets/AdventureGame.cs
+  artifactKey: Guid(465aeca5f6b184e0ab069948b5bf3b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AdventureGame.cs using Guid(465aeca5f6b184e0ab069948b5bf3b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e01803d62eee53cde67924f735420fdf') in 0.070208 seconds
+  Import took 0.176286 seconds .
+
